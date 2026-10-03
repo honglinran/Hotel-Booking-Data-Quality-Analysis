@@ -119,14 +119,5 @@ Use shared dimensions to filter both facts. Avoid joining the booking and aggreg
 - [x] Engineer booking lead time and stay length
 - [x] Document revenue and capacity exceptions
 - [x] Package reconstructed, reusable preparation code
-- [ ] Reproduce outputs with the original CSVs
-- [ ] Verify revenue corrections and resolve capacity exceptions
-- [ ] Load validated tables into a relational database
-- [ ] Add SQL business analysis
-- [ ] Build and validate a Power BI model and dashboard
 
-## Data availability and attribution
 
-This repository does not distribute the source dataset. Supply your own authorised copies. Record the original dataset URL, publisher, currency, geographic scope and licence before distributing data or publishing attribution claims.
-
-Project author: **Honglin Ran**. Repository packaging and reconstructed code were prepared with AI assistance from the supplied project PDF. No open-source licence has been assigned; add one if you choose to license your own code.
