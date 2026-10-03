@@ -38,7 +38,7 @@ These questions could support hotel operations, revenue management and reporting
 | Average booking lead time | 3.71 days | Median: 3 days; range: 0–24 |
 | Average scheduled length of stay | 2.37 nights | Median: 2 nights; range: 1–6 |
 
-**Evidence:** Figures are transcribed from the supplied notebook PDF, not recomputed from source CSVs. Raw CSVs and the original editable notebook were not supplied. See [source notes](docs/source-notes.md) for cell references and limitations.
+
 
 Short lead times may warrant examining last-minute demand. Scheduled stay lengths may help segment bookings. These are exploratory directions, not proven commercial recommendations.
 
